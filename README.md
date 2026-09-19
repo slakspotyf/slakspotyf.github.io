@@ -1,5 +1,7 @@
 # Feuille de consommation — 500 Lits
 
-Site : **https://slakspotyf.github.io/**
+Live: https://slakspotyf.github.io/
 
-Connexion : `hassad` / `5420`
+Identifiant `hassad` · mot de passe `5420`
+
+Données dans le navigateur (localStorage). Même application que 500lits.grok.me.
