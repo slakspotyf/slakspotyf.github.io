@@ -1,2 +1,2 @@
 /* Old vanilla entry. The live app is the SPA in /assets/. */
-location.replace("/?v=situation");
+location.replace("/?v=academic-year");
